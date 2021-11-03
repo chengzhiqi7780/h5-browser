@@ -1,0 +1,33 @@
+module.exports={
+    message: {
+      wifiSetting: 'Configuración de Wi-Fi móvil',
+      update: 'actualizacion del sistema',
+      date: "Fecha y hora",
+      lang:'Idioma',
+      resetting:'Restablecimiento / restablecimiento de fábrica',
+      equipment:'Sobre equipos y cajas',
+      showing:'show',
+      back:'regreso',
+      scan:'exploración',
+      wificonnected:'Wi-Fi conectado',
+      wifiavailable:'WLAN disponible',
+      connected:'conectado',
+      quality:'Buena calidad de red',
+      othernet:'Agregar otra red',
+      add:'añadir',
+      findnetwork:'Encuentra y únete a una red Wi-Fi',
+      inputnetwork:'Ingrese la red y la contraseña a la que desea unirse.',
+      networkname:'Nombre de red',
+      password:'contraseña',
+      cancel:'Cancelar',
+      join:'Participar',
+      languageswitch:'Cambio de idioma',
+      connections:'conectar',
+      failed:'Nombre de red o contraseña incorrectos, conexión fallida',
+      know:'saber',
+      notnull:'El nombre de la red no puede estar vacío',
+      passwordlength:'La contraseña de red debe tener 8 dígitos',
+      success:'Conexión de red exitosa',
+      passworderror:'Contraseña incorrecta, conexión fallida'
+    }
+  }

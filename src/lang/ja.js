@@ -1,0 +1,37 @@
+module.exports={
+  message: {
+    wifiSetting: 'モバイルWi-Fi設定',
+    update: 'システムアップデート',
+    date: "日時",
+    lang:'言語',
+    resetting:'工場出荷時のリセット/リセット',
+    equipment:'備品・箱について',
+    showing:'見せる',
+    back:'戻る',
+    scan:'走査',
+    wificonnected:'Wi-Fi接続',
+    wifiavailable:'利用可能なWLAN',
+    connected:'接続済み',
+    quality:'良好なネットワーク品質',
+    othernet:'別のネットワークを追加する',
+    add:'追加',
+    findnetwork:'Wi-Fiネットワークを見つけて参加する',
+    inputnetwork:'参加するネットワークとパスワードを入力します。',
+    networkname:'ネットワーク名',
+    password:'パスワード',
+    cancel:'キャンセル',
+    join:'参加する',
+    languageswitch:'言語スイッチ',
+    noexist:'申し訳ありません！アクセスしたページは存在しません...',
+    backhome:'クリックしてホームページに戻ります',
+    connections:'コネクション',
+    connecting:'コネクティング',
+    failed:'ネットワーク名またはパスワードのエラー、接続の失敗',
+    know:'それを手に入れた。',
+    notnull:'ネットワーク名は空にできない',
+    passwordlength:'ネットワークパスワードは8桁でお願いします。',
+    success:'ネットワーク接続成功',
+    passworderror:'パスワードエラー、接続失敗'
+
+  }
+}

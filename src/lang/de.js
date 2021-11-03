@@ -1,0 +1,33 @@
+module.exports={
+    message: {
+      wifiSetting: 'Mobile Wi-Fi-Einstellungen',
+      update: 'Systemupdate',
+      date: "Datum (und Uhrzeit",
+      lang:'Sprache',
+      resetting:'Werksreset/Reset',
+      equipment:'Über Ausrüstung und Boxen',
+      showing:'zeigen',
+      back:'Rückkehr',
+      scan:'Scannen',
+      wificonnected:'WLAN verbunden',
+      wifiavailable:'Verfügbares WLAN',
+      connected:'in Verbindung gebracht',
+      quality:'Gute Netzqualität',
+      othernet:'Weiteres Netzwerk hinzufügen',
+      add:'Hinzufügen',
+      findnetwork:'Suchen und verbinden Sie ein Wi-Fi-Netzwerk',
+      inputnetwork:'Geben Sie das Netzwerk und das Passwort ein, dem Sie beitreten möchten.',
+      networkname:'Netzwerkname',
+      password:'Passwort',
+      cancel:'Abbrechen',
+      join:'dazu kommen',
+      languageswitch:'Sprachumschaltung',
+      connections:'verbinden',
+      failed:'Fehler beim namen Oder passwort des netzwerks: verbindung fehlgeschlagen',
+      know:'Verstanden, braver junge.',
+      notnull:'Das netzwerk darf nicht Leer sein',
+      passwordlength:'Das passwort sollte 8 ziffern haben',
+      success:'Eine erfolgreiche internet verbindung.',
+      passworderror:'Chiffrierfehler. Fehlerhafte verbindung'
+    }
+  }
